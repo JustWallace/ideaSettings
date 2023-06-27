@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="One Dark Theme" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
