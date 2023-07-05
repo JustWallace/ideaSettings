@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/kwaishop-ideat-leads-center-starter/kwaishop-ideat-leads-center-rpc/src/main/java/com/kuaishou/kwaishop/ideat/leads/center/rpc/service/KwaishopIdeatLeadsCustomerServiceImpl.java [kwaishop-ideat-leads-center-rpc]'" />
-    <option name="defaultScopeName" value="File '…/kwaishop-ideat-leads-center-starter/kwaishop-ideat-leads-center-rpc/src/main/java/com/kuaishou/kwaishop/ideat/leads/center/rpc/service/KwaishopIdeatLeadsCustomerServiceImpl.java [kwaishop-ideat-leads-center-rpc]'" />
-    <option name="SEARCH_SCOPE" value="File '…/kwaishop-ideat-leads-center-starter/kwaishop-ideat-leads-center-rpc/src/main/java/com/kuaishou/kwaishop/ideat/leads/center/rpc/service/KwaishopIdeatLeadsCustomerServiceImpl.java [kwaishop-ideat-leads-center-rpc]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
